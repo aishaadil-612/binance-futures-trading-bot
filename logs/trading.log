@@ -1,0 +1,8 @@
+2026-07-06 22:47:51 | INFO | TradingBot | Validated user input.
+2026-07-06 22:47:52 | INFO | TradingBot | Placing MARKET order | Symbol=BTCUSDT Side=BUY Quantity=0.001
+2026-07-06 22:47:53 | INFO | TradingBot | Order Success: {}
+2026-07-06 23:31:21 | INFO | TradingBot | Placing MARKET order | Symbol=BTCUSDT Side=BUY Quantity=0.001
+2026-07-06 23:31:22 | INFO | TradingBot | Order Success: {}
+2026-07-06 23:31:52 | INFO | TradingBot | Validated user input.
+2026-07-06 23:31:53 | INFO | TradingBot | Placing MARKET order | Symbol=BTCUSDT Side=BUY Quantity=0.001
+2026-07-06 23:31:54 | INFO | TradingBot | Order Success: {}

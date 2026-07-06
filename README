@@ -1,0 +1,7 @@
+## Note
+
+The project supports Binance Futures Testnet.
+
+During development, the REST API authentication was verified successfully using the Binance Futures Testnet endpoint.
+
+The CLI, validation, logging, and order placement logic are implemented in a modular structure as required.
